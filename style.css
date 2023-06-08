@@ -1,0 +1,155 @@
+body{
+    background-color: gray;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container1{
+    height: 110px;
+    width: 270px;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 2px rgb(90, 10, 165);
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color: rgb(148, 15, 15);
+    position: relative;
+    bottom: 10px;
+    left: 440px;
+    text-shadow: 1px 1px 1px rgb(137, 18, 137);
+}
+hr{
+    color: white;
+}
+
+.item{
+    font-size: 70px;
+}
+.parent2{
+    justify-content: space-between;
+    display: flex;
+}
+.parent{
+    height: 500px;
+    border: 5px solid green;
+    width:99%;
+}
+.childn{
+    border: 5px solid red;
+    box-shadow: 5px 5px 2px rgb(90, 10, 165);
+    height: 150px;
+    background-color: white;
+    width: 300px;
+    font-style: italic;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px rgb(137, 18, 137);
+    color: rgb(22, 1, 1);
+}
+.parent3{
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-between;
+}
+img{
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    width: 150px;
+    height: 130px;
+}
+.child2{
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    align-items: center;
+}
+.child4{
+    margin-right: 50px; 
+}
+.parent4{
+    border: 5px solid rgb(134, 9, 134);
+    background-color: green;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 20%;
+    width: 610px;
+    height: 570px;
+}
+.container2{
+    display: flex;
+    margin-top: -5%;
+    justify-content: space-between;
+}
+.part2{
+    border: 1px solid rgb(17, 1, 1);
+    background-color: rgb(236, 236, 142);
+    font-style: italic;
+    width: 300px;
+    height: 230px;
+}
+
+.container3{
+    width: 98%;
+    height: 250px;
+    border: 1px solid rgb(28, 3, 3);
+    margin-top: 2%;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 6%;
+    font-weight: bold;
+}
+.child3{
+    font-size: 20px;
+}
+.child4{
+    font-size: 20px;
+}
+input{
+    text-align: center;
+}
+.btn{
+    background-color: rgb(166, 14, 14);
+    margin-left: 10px;
+    margin-top: 2px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+    height: 10px;
+    font-size: 10px;
+    width: 50px;
+}
+.container4{
+    width: 350px;
+    height: 80px;
+    position: fixed;
+    border: 5px solid red;
+    border-radius: 20px;
+    box-shadow: 5px 5px 1px rgb(84, 9, 84);
+    background-color: rgb(134, 233, 29);
+    margin-left: 430px;
+    margin-top: 30px;
+    font-style: italic;
+  }
+  .offer{
+    margin-left: 10px;
+    
+}
+.offer1{
+    margin-left: 160px;
+    margin-top: -65px;
+    font-size: 16px;
+}
+.offer2{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.offer3{
+    margin-top: 30px;
+    margin-left: 200px;
+}
